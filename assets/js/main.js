@@ -1,6 +1,6 @@
-import { initMenu } from "./menu.js";
+import { initMenu } from "./ulite/menu.js";
 import { loadLayout } from "./layout.js";
-import { scrollAnimation } from "./scrollAnimation.js";
+import { scrollAnimation } from "./ulite/scrollAnimation.js";
 import { initHeader } from "./header.js";
 
 document.addEventListener("DOMContentLoaded", async () => {
